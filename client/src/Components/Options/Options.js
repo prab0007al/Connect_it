@@ -153,7 +153,7 @@ const Options = (props) => {
         >
           <div className='options-menu'>
             <div className='btn-div'>
-              <h3>Sampark a friend {name}!</h3>
+              <h3>ConnectIt with a friend {name}!</h3>
               <button type='primary' onClick={handleClose}>
                 <CancelIcon/>
               </button>
@@ -191,7 +191,7 @@ const Options = (props) => {
               }}>
             <DialogContent>
               <div className='call-div'>
-              <p>{call.callerName} wants to Sampark</p>
+              <p>{call.callerName} wants to ConnectIt</p>
                 <div className='flex'>
                   <Button
                     type='primary'

@@ -28,7 +28,7 @@ const Home = (props) => {
       <Navbar />
       <div className="home-header" >
         <div className="home-header-desc">
-          <div className="home-header-title"><span className="home-header-title-blue">Let's Sampark</span> with ease</div>
+          <div className="home-header-title"><span className="home-header-title-blue">ConnectIt</span> with ease</div>
           <div className="ft-desc-head">
             <h1>Connect through instant chat rooms and video calls.</h1>
 
@@ -71,7 +71,7 @@ const Home = (props) => {
       </div>
       {/* body of the page */}
       <div className="ft-desc-center">
-        <h1>How <span className="home-header-title-blue">Sampark</span> connects you</h1>
+        <h1>How <span className="home-header-title-blue">ConnectIt</span> connects you</h1>
       </div>
       <div className="home-feature">
 

@@ -1,7 +1,16 @@
-@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 body{
   font-family: 'Poppins', sans-serif;
-}
+} */
+
+  @import url('https://fonts.googleapis.com/css2?family=Play:wght@400;700&family=Prompt:wght@200;300;400;500;600&family=Rubik:wght@300;400;500&display=swap');
+  body{
+/* font-family: 'Play', sans-serif; */
+ /* font-family: 'Prompt', sans-serif; */
+font-family: 'Rubik', sans-serif;
+
+  }
+
 .home-header{
   display: flex;
   flex-direction: row;

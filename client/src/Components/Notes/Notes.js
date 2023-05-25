@@ -51,7 +51,7 @@ const Notes = () => {
     const pdfDoc = new jsPDF();
     pdfDoc.text(notes, 10, 10);
     message.success('Your notes is downloading');
-    pdfDoc.save('Sampark Meeting Notes.pdf');
+    pdfDoc.save('ConnectIt Meeting Notes.pdf');
   };
 
   return (

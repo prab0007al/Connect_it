@@ -1,5 +1,5 @@
 {
-  "name": "sampark",
+  "name": "ConnectIt",
   "version": "1.0.0",
   "description": "Instant Chat and Video Calls",
   "main": "server.js",

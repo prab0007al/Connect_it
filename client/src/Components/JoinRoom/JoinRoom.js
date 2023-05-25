@@ -43,7 +43,7 @@ const JoinRoom = (props) => {
     <>
       <Navbar />
       <div className='flexbox-container-joinRoom'>
-        <div className="home-header-title"> Enter your name to <span className="home-header-title-blue">Sampark</span></div>
+        <div className="home-header-title"> Enter your name to <span className="home-header-title-blue">ConnectIt</span></div>
         <div className="ft-desc">
           <h1><span className="home-header-title-blue">Chat</span> before and after meetings</h1>
 
