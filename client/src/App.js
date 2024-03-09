@@ -8,6 +8,7 @@ import { ContextProvider } from './SocketContext';
 import Message from './Components/Messages/Message';
 import JoinRoom from './Components/JoinRoom/JoinRoom';
 import ChatRoom from './Components/Chat Room/ChatRoom';
+
 import {
   BrowserRouter as Router,
   Switch,
@@ -21,7 +22,7 @@ function App() {
   }, [navigator]);
 
   return (
-    //SocketContect provider for the components
+    //SocketContext provider for the components
     <ContextProvider>
       <Router>
         <Switch>
